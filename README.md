@@ -1,2 +1,3 @@
-# Csv.into.office
-office, from csv converter
+# initrd.img.builder
+
+builds initrd images
